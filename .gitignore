@@ -6,3 +6,4 @@ slprj/
 codegen/
 *.mex*
 *.log
+/tmp/
