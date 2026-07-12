@@ -1,0 +1,8 @@
+.DS_Store
+*.asv
+*.autosave
+*.m~
+slprj/
+codegen/
+*.mex*
+*.log
